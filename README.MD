@@ -1,5 +1,5 @@
 # hola 😀
 
 ```js
-let Saldu = "Probando README 😁🎧"
+let Saludos = "Probando README 😁🎧";
 ```
